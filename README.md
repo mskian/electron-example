@@ -70,6 +70,11 @@ var weburl = 'https://status.santhoshveer.com';
 ```
 
 - Add Background Color Find this Line `backgroundColor: '#15171A',` & Replace it with your Background Color code
+- Test your APP
+
+```bash
+electron main.js
+```
 
 #### Deb package Setup
 
