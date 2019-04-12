@@ -74,7 +74,7 @@ var weburl = 'https://status.santhoshveer.com';
 #### Deb package Setup
 
 - `debian.json` = `dest` - Set the location for `.deb` package Storage After the Package Build
-- `package.json`
+- `package.json` - Open it & replace it with your Name, Description and Version
 
 ```json
 "scripts": {

@@ -1,7 +1,7 @@
 {
   "name": "electron-example",
   "version": "0.0.2",
-  "description": "Tamil Kavithai and Quotes Images",
+  "description": "Example Desktop APP Build Using Electron.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
