@@ -1,6 +1,6 @@
 {
   "name": "electron-example",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Example Desktop APP Build Using Electron.",
   "main": "main.js",
   "scripts": {
