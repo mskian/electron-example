@@ -1,6 +1,6 @@
 # Electron Desktop APPlication
 
-Convert your website/blog into D Desktop Application Build using Electron (Currently Build Package for Available Linux Only soon for Windows)
+Convert your website/blog into Desktop Application Build using Electron (Currently Build Package for Available Linux Only soon for Windows)
 
 ## Requirements
 
