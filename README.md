@@ -92,9 +92,9 @@ electron main.js
 - `electron-example` - Replace with your APP Name
 - `release-builds/electron-example-linux-x64/` - same Replace `electron-example` with your APP Name
 
-### Learn More about Electorn Packger
+### Learn More about Electron
 
-Special thanks to Christian Engvall for the Awesome Tutorials
+Special thanks to Christian Engvall for this Awesome Tutorials
 
 | # | Topic | Description |
 |---|:------|-------------|
