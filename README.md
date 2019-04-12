@@ -1,6 +1,6 @@
 # Electron Desktop APPlication
 
-Convert your website/blog into Desktop Application Build using Electron (Currently Build Package for Available Linux Only soon for Windows)
+Convert your website/blog into Desktop Application Build using Electron (Currently Build Package for Available Linux Only)
 
 ## Requirements
 
@@ -92,7 +92,24 @@ electron main.js
 - `electron-example` - Replace with your APP Name
 - `release-builds/electron-example-linux-x64/` - same Replace `electron-example` with your APP Name
 
-Learn More about Deb Package - <https://www.christianengvall.se/electron-installer-debian-package/>
+### Learn More about Electorn Packger
+
+Special thanks to Christian Engvall for the Awesome Tutorials
+
+| # | Topic | Description |
+|---|:------|-------------|
+| 01 | [Hello world tutorial](http://www.christianengvall.se/electron-hello-world/) | Get electron running on your computer|
+| 02 | [Testing electron app on Ubuntu](http://www.christianengvall.se/testing-electron-app-on-ubuntu-linux/) | Set up a VirtualBox virtual machine running Ubuntu and share app |
+| 03 | [Electron app icons](http://www.christianengvall.se/electron-app-icons/) | Adding icons to the app |
+| 04 | [Electron packager tutorial](http://www.christianengvall.se/electron-packager-tutorial/) | Creating packages for mac, windows and linux |
+| 05 | [Electron menu](http://www.christianengvall.se/electron-menu/) | Adding a main menu to your Electron app |
+| 06 | [Electron localization](http://www.christianengvall.se/electron-localization/) | Translating an Electron app |
+| 07 | [Electron asar](http://www.christianengvall.se/electron-asar/) | Packaging the app with asar |
+| 08 | [DMG Installer](http://www.christianengvall.se/dmg-installer-electron-app/) | Creating a DMG-installer for macOS |
+| 09 | [Windows installer](http://www.christianengvall.se/electron-windows-installer/) | Creating a windows installer with electron-winstaller |
+| 10 | [Debian package installer](https://www.christianengvall.se/electron-installer-debian-package/) | Create a debian package |
+| 11 | [Update to latest Electron version](https://www.christianengvall.se/update-to-latest-electron-version/) | Update electron to the latest version using npm |
+
 
 ## LICENSE
 
