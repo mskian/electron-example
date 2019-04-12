@@ -1,6 +1,6 @@
-# Electron Desktop APPlication
+# Electron Linux Desktop APPlication
 
-Convert your website/blog into Desktop Application Build using Electron (Currently Build Package for Available Linux Only)
+Convert your website/blog into Desktop Application Build using Electron (Currently Build Package Available for Linux Only)
 
 ## Requirements
 
@@ -23,7 +23,7 @@ sudo npm install electron-packager -g
 
 ## Installation
 
-- Clone the Respo
+- Clone this Respo
 
 ```bash
 https://github.com/mskian/electron-example.git
