@@ -20,5 +20,5 @@ before_script:
   - "yarn"
 
 script:
-  - yarn package-win
-  - yarn create-installer-win
+  - yarn package-linux
+  - yarn create-debian-installer
