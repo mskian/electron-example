@@ -14,7 +14,7 @@
   "author": "Santhosh Veer",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^4.2.6",
+    "electron": "^5.0.7",
     "electron-packager": "^14.0.0"
   },
   "dependencies": {
