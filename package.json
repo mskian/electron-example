@@ -4,7 +4,6 @@
   "description": "Example Desktop APP Build Using Electron.",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "package-linux": "electron-packager .  electron-example --overwrite --platform=linux --arch=x64 --icon=assets/icons/Icon-1024.png --asar --prune=true --out=release-builds",
     "create-debian-installer": "electron-installer-debian --src release-builds/electron-example-linux-x64/ --arch amd64 --config debian.json"
   },

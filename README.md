@@ -1,5 +1,7 @@
 # Electron Linux Desktop APPlication
 
+[![dependencies Status](https://david-dm.org/mskian/electron-example/status.png)](https://david-dm.org/mskian/electron-example)  
+
 Convert your website/blog into Desktop Application Build using Electron (Currently Build Package Available for Linux Only)
 
 ## Requirements
