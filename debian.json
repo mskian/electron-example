@@ -1,10 +1,16 @@
 {
-    "dest": "release-builds/",
-    "icon": "assets/icons/Icon-1024.png",
-    "categories": [
-      "Utility"
-    ],
-    "lintianOverrides": [
-      "changelog-file-missing-in-native-package"
-    ]
-  }
+	"dest": "release-builds/",
+	"icon": {
+		"48x48": "assets/icons/Icon-48.png",
+		"64x64": "assets/icons/Icon-64.png",
+		"128x128": "assets/icons/Icon-128.png",
+		"256x256": "assets/icons/Icon-256.png",
+		"1024x1024": "assets/icons/Icon-1024.png"
+	},
+	"categories": [
+		"Utility"
+	],
+	"lintianOverrides": [
+		"changelog-file-missing-in-native-package"
+	]
+}

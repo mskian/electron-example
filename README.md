@@ -2,7 +2,7 @@
 
 [![dependencies Status](https://david-dm.org/mskian/electron-example/status.png)](https://david-dm.org/mskian/electron-example) [![Build Status](https://travis-ci.org/mskian/electron-example.svg?branch=master)](https://travis-ci.org/mskian/electron-example)  
 
-Convert your website/blog into Desktop Application Build using Electron (Currently Build Package Available for Linux Only)  
+Convert your website/blog into Linux Desktop Application Build using Electron
 
 ## Requirements
 
@@ -68,7 +68,7 @@ yarn create-debian-installer
 - Find the Below & Update your Blog/website URL
 
 ```js
-var weburl = 'https://status.santhoshveer.com';
+var weburl = 'https://task.santhoshveer.com';
 ```
 
 - Add Background Color Find this Line `backgroundColor: '#15171A',` & Replace it with your Background Color code
