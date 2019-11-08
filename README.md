@@ -75,7 +75,7 @@ var weburl = 'https://task.santhoshveer.com';
 - Test your APP
 
 ```bash
-electron main.js
+electron --disable-gpu main.js
 ```
 
 #### Deb package Setup
