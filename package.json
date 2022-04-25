@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "electron": "^18.0.4",
-    "electron-packager": "^15.4.0"
+    "electron-packager": "^15.5.1"
   },
   "dependencies": {
     "electron-context-menu": "^3.1.2"
