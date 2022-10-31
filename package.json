@@ -17,6 +17,6 @@
     "electron-packager": "^17.0.0"
   },
   "dependencies": {
-    "electron-context-menu": "^3.5.0"
+    "electron-context-menu": "^3.6.0"
   }
 }
